@@ -1,0 +1,103 @@
+.car img {
+    top: 60%;
+    scale: 1;
+    left: 160;
+    position: absolute;
+    transform: translateX(-150px);
+    /* max-height: 500px; */
+    max-width: 900px;
+
+}
+
+#BMW {
+    top: 10%;
+    position: relative;
+}
+
+#Ford {
+    scale: 1.1;
+}
+
+.vehicle1 {
+    position: absolute;
+    margin-right: 80px;
+    top: 30%;
+    right: 2%;
+    color: #cfd3d8;
+    display: grid;
+    flex-direction: column;
+    font-family: 'Quicksand', sans-serif;
+    /* max-height: 500px; */
+    max-width: 350px;
+    /* overflow-x:; */
+}
+
+.vehicle1 h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 10px;
+}
+
+.vehicle2 {
+    position: absolute;
+    margin-right: 80px;
+    top: 30%;
+    right: 2%;
+    color: #cfd3d8;
+    display: grid;
+    flex-direction: column;
+    max-height: 500px;
+    max-width: 350px;
+    font-family: 'Quicksand', sans-serif;
+    /* overflow-x:; */
+}
+
+.vehicle2 h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 10px;
+}
+
+.vehicle3 {
+    position: absolute;
+    margin-right: 80px;
+    top: 30%;
+    right: 2%;
+    color: #cfd3d8;
+    display: grid;
+    flex-direction: column;
+    max-height: 200px;
+    max-width: 350px;
+    /* font-family: 'Cairo', sans-serif; */
+    /* overflow-x:; */
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+
+.vehicle3 h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 10px;
+}
+
+#Porsche {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: transform 0.5s ease;
+}
+
+#M4 {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: transform 0.5s ease;
+}
+
+#Mstng {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    transition: transform 0.5s ease-out;
+}

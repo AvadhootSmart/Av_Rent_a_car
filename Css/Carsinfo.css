@@ -1,0 +1,52 @@
+  @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+/* 
+  font-family: 'Oswald', sans-serif; */
+
+
+.Porsche {
+    position: absolute;
+    overflow: hidden;
+    top: 30%;
+    left: 10%;
+    color: #cfd3d8;
+    width: 320px;
+    transition: opacity 1 ease-out;
+    font-family: 'Cairo', sans-serif;
+}
+
+.Porsche h1 {
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.M4 {
+    position: absolute;
+    overflow: hidden;
+    top: 30%;
+    left: 10%;
+    color: #cfd3d8;
+    width: 320px;
+    transition: opacity 1 ease-out;
+    font-family: 'Cairo', sans-serif;
+}
+
+.M4 h1{
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.Mustang{
+    position: absolute;
+    overflow: hidden;
+    top: 30%;
+    left: 10%;
+    color: #cfd3d8;
+    width: 320px;
+    transition: opacity 1 ease-out;
+    font-family: 'Cairo', sans-serif;
+}
+.Mustang h1{
+    padding-bottom: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
